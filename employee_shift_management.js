@@ -35,5 +35,14 @@ function assignShift(employees.name, employees.day, employees.hours){
 
 }}
 
+//task 4
+function calculatetotalhours(hours){
+    const employees= employees.find((hours)=>employee.hours===hours);
+    let calculatetotalhours(employees.hours);
+    console.log({calculatetotalhours});
+
+}
+
+
 
 
