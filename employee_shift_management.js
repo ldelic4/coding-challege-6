@@ -11,4 +11,10 @@ const employees = [
     
     ];
 
-    
+//task 2
+function displayemployeeshifts (employee){
+    console.log[('Employee name:' {employees.name}, 'day:'{employees.day}, 'Shift:'{employees.shift})]
+}
+
+
+
