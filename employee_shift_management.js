@@ -12,9 +12,28 @@ const employees = [
     ];
 
 //task 2
-function displayemployeeshifts (employee){
-    console.log[('Employee name:' {employees.name}, 'day:'{employees.day}, 'Shift:'{employees.shift})]
+function displayemployeeshifts (employees){
+    console.log('Employee name:' ${employees.name},'day:'${employees.day}, 'Shift:'${employees.shift})
 }
+
+//task3 
+function assignShift(employees.name, employees.day, employees.hours){
+    const employees= employees.find((employees)=>employee.name===employeename);
+
+    if (!employee){
+        console.log('Error'):
+        return;
+
+    }
+
+    const assignShift(employees){
+        const assignShift= employees.find((shift)=>employees.shift===shift);
+        if (assignShift? "Already assinged a shift": "Not Assigned a shift");
+//adding new shift
+        assign.shifts.push({day, hours});
+        console.log('shift':${employees.name}, ${day},${hours});
+
+}}
 
 
 
