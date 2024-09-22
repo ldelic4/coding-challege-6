@@ -43,6 +43,16 @@ function calculatetotalhours(hours){
 
 }
 
+//task 5
+function listavailableemployees(day){
+    const listavailableemployees= employeesshift.some((shift)=>shoft.day=== day);
+    if (listavailableemployees===0){
+        console.log(${employees.name});
+    
+    }
+
+}
+
 
 
 
